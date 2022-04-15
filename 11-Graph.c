@@ -1,3 +1,7 @@
+Design, Develop and Implement a Program in C for the following operations on Graph(G) of
+Cities
+a. Create a Graph of N cities using Adjacency Matrix.
+Print all the nodes reachable from a given starting node in a digraph using DFS/BFS method
 #include <stdio.h>
 #include <stdlib.h>
 int a[20][20],q[20],visited[20],reach[10],n,i,j,f=0,r=-1,count=0;
