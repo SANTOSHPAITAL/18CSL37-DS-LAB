@@ -5,8 +5,11 @@ VTU DS  LAB 3rd Sem
 Execution Steps:
 
 Step 1: Open Terminal and type the following commands
+
 Step 2: linux:~/dslab # gedit pgmname.c (To open editor and for typing the program)
+
 Step 3: linux:~/dslab # cc pgmname.c (To Compile the Program)
+
 Step 4: linux:~/dslab # ./a.out (To Run the Program)
 
 Programs List:
